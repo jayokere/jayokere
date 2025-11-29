@@ -22,7 +22,7 @@ My work focuses on the intersection of complex math and efficient code, whether 
 ### 🔭 Featured Projects
 
 #### 📈 **High-Performance Algorithmic Trading Engine**
-* **Stack:** C++, Python, REST APIs
+* **Stack:** C++, Python, TypeScript
 * **The Engineering:** Currently building a low-latency backtesting engine. I implemented **multithreading** to process massive financial time-series datasets, mimicking a real-time high-volume trading environment.
 * **The Analysis:** Integrated a Python pipeline (Pandas/NumPy) to visualise trade performance and calculate risk metrics.
 
