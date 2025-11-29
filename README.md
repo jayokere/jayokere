@@ -4,7 +4,7 @@
 
 I am a 20-year-old **Software Engineer** based in London with a passion for **high-performance computing** and **algorithmic complexity**. I recently graduated with First-Class Honours and am currently specialising in Software Systems Engineering at University College London.
 
-My work focuses on the intersection of complex math and efficient code—whether that's architecting low-latency trading engines or optimising graph traversal for mobile.
+My work focuses on the intersection of complex math and efficient code, whether that's architecting low-latency trading engines or optimising graph traversal for mobile.
 
 ---
 
