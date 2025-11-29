@@ -19,28 +19,6 @@ My work focuses on the intersection of complex math and efficient code, whether 
 
 ---
 
-### 🔭 Featured Projects
-
-#### 📈 **High-Performance Algorithmic Trading Engine**
-* **Stack:** C++, Python, TypeScript
-* **The Engineering:** Currently building a low-latency backtesting engine. I implemented **multithreading** to process massive financial time-series datasets, mimicking a real-time high-volume trading environment.
-* **The Analysis:** Integrated a Python pipeline (Pandas/NumPy) to visualise trade performance and calculate risk metrics.
-
-#### 📍 **CoRun: Pathfinding Optimisation System**
-* **Stack:** TypeScript, React Native, Firebase, Expo
-* **The Logic:** A mobile-deployed engine for solving multi-variable routing problems in dynamic environments.
-* **The Math:** Led the implementation of a custom **weighted graph traversal algorithm ($A^*$)**, integrating heuristics like elevation and crowd density to outperform standard routing.
-* **Performance:** Optimised the execution environment to handle complex graph calculations directly on mobile hardware.
-
----
-
-### 💼 Experience
-
-* **Freelance Software Engineer:** I architect reusable software components for clients, recently reducing deployment times by **20%** for internal tooling.
-* **Frontend Developer (Intern) @ Outori:** Focused on the rendering pipeline, ensuring smooth **60fps** animations on lower-end mobile devices using React Native.
-
----
-
 ### ⚡ Offline
 
 When I'm not debugging race conditions, you can find me:
