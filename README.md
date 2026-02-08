@@ -13,7 +13,7 @@ My work focuses on the intersection of complex math and efficient code, whether 
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | C++, Python, TypeScript, JavaScript, C#, SQL |
-| **Data & AI** | Pandas, NumPy, PyTorch, TensorFlow, Matplotlib |
+| **Data & AI** | Pandas, NumPy, SKlearn, PyTorch, TensorFlow, Matplotlib |
 | **Infrastructure** | AWS (Certified Cloud Practitioner), Docker, Linux, CI/CD, Git |
 | **Core Concepts** | Multithreading, System Design, REST APIs, A* Pathfinding |
 
